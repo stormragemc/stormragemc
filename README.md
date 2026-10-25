@@ -21,7 +21,6 @@ I build AI systems that connect to real products, workflows, and people.
 
 - **Enterprise AI at UIC** — HR assistant workflows, intent routing, RAG playbooks, permissions, and integration across frontend, gateway, AI service, and core backend.
 - **Co-founder & CTO at Cirvola** — turning food side-streams into useful products through technology, workshops, and community programmes.
-- **Founding Engineer at Off-Market / Monolith** — building a platform that helps restaurants fill quieter hours through dynamic offers.
 - **Going deeper into AI infrastructure** — hands-on Kubernetes, Helm, and Temporal practice, alongside small-model fine-tuning experiments.
 
 ### Experience
