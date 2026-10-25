@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=170&text=Hey%2C%20I%27m%20Marcel&fontSize=52&fontColor=70a5fd&fontAlignY=44&desc=AI%20ENGINEERING%20%20%2F%20%20BACKEND%20SYSTEMS%20%20%2F%20%20STARTUPS&descSize=15&descAlignY=72&descColor=a9b1d6" width="100%" alt="Hey, I'm Marcel. AI engineering, backend systems, and startups." />
+<img src="https://raw.githubusercontent.com/stormragemc/stormragemc/main/assets/profile-banner.svg" width="100%" alt="Hey, I'm Marcel. AI engineering, backend systems, and startups. The Cirvola logo slides in after the text fades in." />
 
 ### Gabriel Marcel Danandjaja
 
@@ -182,3 +182,4 @@ REST APIs · JWT / MSAL · RBAC · recursive SQL · authenticated tool execution
 </p>
 
 <!-- Activity cards are generated from public profiles by third-party services and may be cached. -->
+
