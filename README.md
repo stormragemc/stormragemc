@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stormragemc/stormragemc/main/assets/profile-banner.svg" width="100%" alt="Hey, I'm Marcel. AI engineering, backend systems, and startups. The Cirvola logo slides in after the text fades in." />
+<img src="https://raw.githubusercontent.com/stormragemc/stormragemc/main/profile-banner.svg" width="100%" alt="Hey, I'm Marcel. AI engineering, backend systems, and startups. The Cirvola logo slides in after the text fades in." />
 
 ### Gabriel Marcel Danandjaja
 
