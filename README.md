@@ -156,7 +156,17 @@ REST APIs · JWT / MSAL · RBAC · recursive SQL · authenticated tool execution
     <img src="https://leetcard.jacoblin.cool/stormragemc?theme=dark&colors=1a1b27,24283b,c0caf5,a9b1d6,70a5fd,9ece6a,e0af68,f7768e&font=Fira%20Code&ext=heatmap&border=0&radius=16&animation=false" width="75%" alt="Marcel's live LeetCode solved counts, difficulty breakdown, and submission heatmap for the last 52 weeks" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://leetcode.com/u/stormragemc/">
+    <img
+      src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
+      width="110"
+      alt="LeetCode 50 Days Badge 2026"
+    />
+  </a>
+  <br>
+  <b>50 Days Badge 2026</b>
+</p>
 <p align="center">
   Practising algorithms, data structures, and problem solving.<br>
   <a href="https://leetcode.com/u/stormragemc/"><b>View my LeetCode profile →</b></a>
