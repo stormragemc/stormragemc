@@ -159,10 +159,10 @@ REST APIs · JWT / MSAL · RBAC · recursive SQL · authenticated tool execution
 <p align="center">
   <a href="https://leetcode.com/u/stormragemc/">
     <img
-      src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
-      width="110"
-      alt="LeetCode 50 Days Badge 2026"
-    />
+  src="./assets/leetcode-50-days-2026.gif"
+  width="110"
+  alt="LeetCode 50 Days Badge 2026"
+/>
   </a>
   <br>
   <b>50 Days Badge 2026</b>
