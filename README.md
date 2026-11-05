@@ -127,7 +127,7 @@ REST APIs · JWT / MSAL · RBAC · recursive SQL · authenticated tool execution
 
 <p align="center">
   <a href="https://github.com/stormragemc">
-    <img src="https://github-readme-stats.vercel.app/api?username=stormragemc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&disable_animations=true&include_all_commits=true&hide=contribs" width="49%" alt="Marcel's live GitHub statistics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stormragemc&theme=tokyonight" width="49%" alt="Marcel's GitHub statistics" />
   </a>
   <a href="https://github.com/stormragemc">
     <img src="https://streak-stats.demolab.com/?user=stormragemc&theme=tokyonight&hide_border=true" width="49%" alt="Marcel's GitHub contribution streak" />
